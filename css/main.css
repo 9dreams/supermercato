@@ -14,5 +14,17 @@
 }
 
 #sfondo {
-    background-color: lightgray;
+    background-image: src"sfondo.jpg";
 }
+
+
+
+.prodotti{
+    background-image: src"sfondo.jpg";
+}
+
+#titolo{
+    background-color: aquamarine;
+}
+
+
