@@ -1,0 +1,40 @@
+.container-fluid {
+    min-height: 100px;
+    background-color: white;
+
+}
+
+
+
+
+.logo{
+    width: 200px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+#sfondo {
+    background-image: src"sfondo.jpg";
+}
+
+
+
+.prodotti{
+    background-image: src"sfondo.jpg";
+}
+
+#titolo{
+    background-color: aquamarine;
+}
+
+
+#spazio{
+    background-color: aquamarine;
+}
+
+
+#prodotti{
+    background-color: aquamarine;
+}
+
+
